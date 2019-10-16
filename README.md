@@ -22,3 +22,5 @@ Aur batao
 kaise ho 
 
 khana khaogey ?
+
+kiii haaal si ?
